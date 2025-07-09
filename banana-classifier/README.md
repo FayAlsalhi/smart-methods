@@ -23,4 +23,4 @@ This project uses a Teachable Machine model to classify bananas into categories 
 - `result.png`: Output screenshot
 
 ## Output Example
-<img width="1729" height="512" alt="Image" src="https://github.com/user-attachments/assets/da47278d-4063-4d4c-80f1-5514679ccce4" /
+![image](https://github.com/FayAlsalhi/smart-methods/blob/main/banana-classifier/image.png)
