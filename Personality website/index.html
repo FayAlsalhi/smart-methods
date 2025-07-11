@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fay Hamad Alsalhi - Computer Science Student & Developer</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-content">
+                <div class="nav-logo">
+                    <a href="#home">FA</a>
+                </div>
+                <ul class="nav-menu">
+                    <li><a href="#home" class="nav-link">Home</a></li>
+                    <li><a href="#about" class="nav-link">About</a></li>
+                    <li><a href="#skills" class="nav-link">Skills</a></li>
+                    <li><a href="#projects" class="nav-link">Projects</a></li>
+                    <li><a href="#experience" class="nav-link">Experience</a></li>
+                    <li><a href="#contact" class="nav-link">Contact</a></li>
+                </ul>
+                <div class="nav-toggle">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Global floating elements and mouse cursor -->
+    <div class="floating-element"></div>
+    <div class="floating-element"></div>
+    <div class="floating-element"></div>
+    <div class="floating-element"></div>
+    <div class="floating-element"></div>
+    <div class="floating-element"></div>
+    <div class="floating-element"></div>
+    <div class="floating-element"></div>
+    <div class="floating-element"></div>
+    <div class="floating-element"></div>
+    
+    <!-- Custom mouse cursor -->
+    <div class="mouse-cursor"></div>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <div class="hero-text">
+                    <h1 class="hero-title">Fay Hamad Alsalhi</h1>
+                    <h2 class="hero-subtitle">Computer Science Student | Software Developer | UI/UX Designer</h2>
+                    <p class="hero-description">I'm a passionate learner seeking real-world challenges and internship opportunities to grow and contribute with technical and creative solutions.</p>
+                    <a href="assets/1متعمد .pdf" class="btn btn-primary" download="Fay_Alsalhi_CV.pdf">
+                        <i class="fas fa-download"></i>
+                        Download CV
+                    </a>
+                </div>
+                <div class="hero-image">
+                    <img src="assets/fay-photo.jpg" alt="Fay Hamad Alsalhi">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about">
+        <div class="container">
+            <h2 class="section-title">About Me</h2>
+            <div class="about-content">
+                <p class="about-text">
+                    I am a Computer Science student at Qassim University, driven by a genuine passion for software development. I'm actively seeking opportunities to apply my skills in real-world projects. My foundation comes from academic learning, self-study, and active participation in tech communities. I bring dedication, curiosity, and a growth mindset into everything I do.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills" class="skills">
+        <div class="container">
+            <h2 class="section-title">Skills</h2>
+            <div class="skills-content">
+                <div class="skills-category">
+                    <h3 class="category-title">Technical Skills</h3>
+                    <div class="skills-grid">
+                        <div class="skill-item">
+                            <h4>Programming Languages</h4>
+                            <p>Python, Java, C++, C, JavaScript</p>
+                        </div>
+                        <div class="skill-item">
+                            <h4>Front-End</h4>
+                            <p>HTML, CSS, Bootstrap</p>
+                        </div>
+                        <div class="skill-item">
+                            <h4>Back-End</h4>
+                            <p>PHP</p>
+                        </div>
+                        <div class="skill-item">
+                            <h4>Databases</h4>
+                            <p>MySQL</p>
+                        </div>
+                        <div class="skill-item">
+                            <h4>BI Tools</h4>
+                            <p>Power BI, Excel, SQL</p>
+                        </div>
+                        <div class="skill-item">
+                            <h4>UI/UX</h4>
+                            <p>Figma, Wireframing, Prototyping, Usability Testing</p>
+                        </div>
+                        <div class="skill-item">
+                            <h4>Other</h4>
+                            <p>Responsive Design, Debugging, Prompt Engineering</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="skills-category">
+                    <h3 class="category-title">Soft Skills</h3>
+                    <div class="skills-grid">
+                        <div class="skill-item">
+                            <h4>Communication</h4>
+                        </div>
+                        <div class="skill-item">
+                            <h4>Problem Solving</h4>
+                        </div>
+                        <div class="skill-item">
+                            <h4>Critical & Analytical Thinking</h4>
+                        </div>
+                        <div class="skill-item">
+                            <h4>Time Management</h4>
+                        </div>
+                        <div class="skill-item">
+                            <h4>Teamwork & Collaboration</h4>
+                        </div>
+                        <div class="skill-item">
+                            <h4>Flexibility & Adaptability</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="projects">
+        <div class="container">
+            <h2 class="section-title">Projects</h2>
+            <div class="projects-grid">
+                <div class="project-card">
+                    <h3>Movie Booking Website</h3>
+                    <p>Full-stack movie ticket booking platform with seat selection and reservation</p>
+                    <div class="project-tech">HTML, CSS, JS, PHP, MySQL</div>
+                </div>
+                <div class="project-card">
+                    <h3>Iqraa Library System</h3>
+                    <p>Java Swing + Access app with login, dashboard, overdue tracking, and receipt generation</p>
+                    <div class="project-tech">Java, Swing, Access</div>
+                </div>
+                <div class="project-card">
+                    <h3>Mosque Management System</h3>
+                    <p>Python + Tkinter + SQLite desktop app with map integration via Folium</p>
+                    <div class="project-tech">Python, Tkinter, SQLite, Folium</div>
+                </div>
+                <div class="project-card">
+                    <h3>EVI Design Website</h3>
+                    <p>Modern fashion service site with booking system built using Framer</p>
+                    <div class="project-tech">Framer</div>
+                </div>
+                <div class="project-card">
+                    <h3>UI/UX Portfolio Projects</h3>
+                    <p>Falih App 2.0, Fluent Design App, Doable Case Study, Student Club Website, Artwa Initiative Website Redesign</p>
+                    <div class="project-tech">Figma, UI/UX Design</div>
+                </div>
+                <div class="project-card">
+                    <h3>Ehsan Donation Case Study</h3>
+                    <p>Full system analysis, requirement mapping, SOA design, and UML diagrams</p>
+                    <div class="project-tech">System Analysis, UML, SOA</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Experience Section -->
+    <section id="experience" class="experience">
+        <div class="container">
+            <h2 class="section-title">Experience</h2>
+            <div class="experience-content">
+                <div class="experience-item">
+                    <div class="experience-header">
+                        <h3>Programming Team Supervisor</h3>
+                        <span class="experience-company">Qassim Tech Association</span>
+                        <span class="experience-date">2025 – Present</span>
+                    </div>
+                </div>
+                <div class="experience-item">
+                    <div class="experience-header">
+                        <h3>Tech Department Leader</h3>
+                        <span class="experience-company">GDSC</span>
+                        <span class="experience-date">2024 – Present</span>
+                    </div>
+                </div>
+                <div class="experience-item">
+                    <div class="experience-header">
+                        <h3>Marketing</h3>
+                        <span class="experience-company">Baims Educational Platform</span>
+                        <span class="experience-date">2022 – Present</span>
+                    </div>
+                </div>
+                <div class="experience-item">
+                    <div class="experience-header">
+                        <h3>Community Manager</h3>
+                        <span class="experience-company">TechMinds</span>
+                        <span class="experience-date">2023 – Present</span>
+                    </div>
+                </div>
+                <div class="experience-description">
+                    <p>Organized hackathons, bootcamps (like Flutter Camp), tech meetups, and managed social media & outreach for technical communities.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Education & Certificates Section -->
+    <section id="education" class="education">
+        <div class="container">
+            <h2 class="section-title">Education & Certificates</h2>
+            <div class="education-content">
+                <div class="education-item">
+                    <h3>Bachelor of Computer Science</h3>
+                    <p>Qassim University</p>
+                    <span class="education-date">2021 – Present</span>
+                </div>
+                <div class="certificates-grid">
+                    <div class="certificate-item">
+                        <i class="fas fa-certificate"></i>
+                        <span>Data Analysis – Coursera</span>
+                    </div>
+                    <div class="certificate-item">
+                        <i class="fas fa-certificate"></i>
+                        <span>Interactive Design – Edraak</span>
+                    </div>
+                    <div class="certificate-item">
+                        <i class="fas fa-certificate"></i>
+                        <span>Web Development Bootcamp – King Khalid University</span>
+                    </div>
+                    <div class="certificate-item">
+                        <i class="fas fa-certificate"></i>
+                        <span>UX Design Bootcamp – Qassim Tech</span>
+                    </div>
+                    <div class="certificate-item">
+                        <i class="fas fa-certificate"></i>
+                        <span>Flutter Bootcamp – Hash Plus</span>
+                    </div>
+                    <div class="certificate-item">
+                        <i class="fas fa-certificate"></i>
+                        <span>Full-Stack Web Development – Udemy</span>
+                    </div>
+                    <div class="certificate-item">
+                        <i class="fas fa-certificate"></i>
+                        <span>Misk Skills Pathway – Misk Skills</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <div class="container">
+            <h2 class="section-title">Contact</h2>
+            <div class="contact-content">
+                <div class="contact-info">
+                    <div class="contact-item">
+                        <i class="fas fa-envelope"></i>
+                        <a href="mailto:fayalsalhi@gmail.com">fayalsalhi@gmail.com</a>
+                    </div>
+                    <div class="contact-item">
+                        <i class="fas fa-phone"></i>
+                        <a href="tel:+966557025882">+966 55 702 5882</a>
+                    </div>
+                    <div class="contact-item">
+                        <i class="fab fa-linkedin"></i>
+                        <a href="https://www.linkedin.com/in/fay-alsalhi-b526372ab" target="_blank">LinkedIn Profile</a>
+                    </div>
+                    <div class="contact-item">
+                        <i class="fas fa-map-marker-alt"></i>
+                        <span>Al-Qassim, Saudi Arabia</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2024 Fay Hamad Alsalhi. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html> 
