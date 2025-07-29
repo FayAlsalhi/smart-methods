@@ -1,15 +1,14 @@
 Car Detection using OpenCV 🚗📹
+
 This project demonstrates a simple real-time Car Detection system using OpenCV and Haar Cascade Classifier. It processes video frames and identifies cars by drawing bounding boxes around them.
 
 💡 Overview
 The goal of this project is to detect vehicles in a video using classical computer vision techniques. This system can be used as a base for traffic monitoring, smart surveillance, or intelligent transport systems.
 
 🛠️ Technologies Used
-Python
-
-OpenCV
-
-Haar Cascade (pre-trained model)
+-Python
+-OpenCV
+-Haar Cascade (pre-trained model)
 
 📂 How it Works
 Load the pre-trained Haar cascade classifier for cars.
