@@ -24,7 +24,8 @@ This project is great for beginners to learn about:
 
 Designed using [Tinkercad Circuits](https://www.tinkercad.com/things/7d9Sn5wS8OG/editel?returnTo=%2Fdashboard&sharecode=LFOVhO0oMXaXl2kcAXGOuPIWWQxi2u6i6P6Dh1oNwfs)
 
-![Circuit Diagram]([211d531" />](https://i.postimg.cc/SNjj7CNV/Cool-Crift.png))
+![Circuit Diagram](https://i.postimg.cc/SNjj7CNV/Cool-Crift.png)
+
 
 
 
