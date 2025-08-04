@@ -60,6 +60,6 @@ You can try this circuit virtually on Tinkercad:
 <img width="1280" height="488" alt="Bodacious Bigery" src="https://github.com/user-attachments/assets/95cfb3c3-bdab-4339-a671-c8fb4d1a03c5" />
 
 
-🎬 [Click here to watch the video](./demo.mp4)
+🎬 [Click here to watch the video](./Recording 2025-08-04 175526.mp4)
 
 
