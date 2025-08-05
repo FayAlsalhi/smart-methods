@@ -11,10 +11,12 @@ This project demonstrates how to use the `turtlesim` package in **ROS2** to cont
 
 ### ✅ Step 1: Launch the Turtlesim Node
 
-Open a terminal and run the following command:
+Open a terminal and run the following command to launch the simulation:
 
 ```bash
 ros2 run turtlesim turtlesim_node
+You should see a blue window open with a turtle in the center.
+
 ✅ Step 2: Control the Turtle
 Open a second terminal and run the teleop (keyboard control) node:
 
@@ -22,41 +24,23 @@ bash
 نسخ
 تحرير
 ros2 run turtlesim turtle_teleop_key
-You should see instructions like:
+A prompt will appear with instructions like:
 
 Use arrow keys to move the turtle.
 
-Use G B V C D E R T to rotate.
-
-Press F to cancel rotation.
+Use G | B | V | C | D | E | R | T to rotate the turtle.
 
 Press Q to quit.
 
-⚠️ Important: Click on the terminal window before using the keyboard — not the turtle screen.
-
-📝 Notes
-Make sure both terminals are in the same ROS2 environment.
-
-If the turtle doesn't move, focus on the terminal running turtle_teleop_key.
+⚠️ Important: Make sure the terminal window is focused when using the keyboard, not the turtle screen.
 
 📸 Screenshot
 Here is a snapshot of the simulation while running:
 
-<img width="526" height="542" alt="image" src="https://github.com/user-attachments/assets/33eae462-dee8-4288-aba7-a59bf5df601a" />
 
 
+💡 Notes
+Make sure both terminals are running in the same ROS2 environment.
 
+If the turtle doesn't respond, refocus the terminal running turtle_teleop_key.
 
-
-
-
-
-
-
-
-
-الأدوات
-
-
-
-يمكن أن تصد
