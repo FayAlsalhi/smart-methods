@@ -12,8 +12,8 @@ This project demonstrates how to use the `turtlesim` package in **ROS2** to cont
 ### ✅ Step 1: Launch the Turtlesim Node
 
 Open a terminal and run the following command to launch the simulation:
-
 ```bash
+
 ros2 run turtlesim turtlesim_node
 You should see a blue window open with a turtle in the center.
 
@@ -21,8 +21,7 @@ You should see a blue window open with a turtle in the center.
 Open a second terminal and run the teleop (keyboard control) node:
 
 bash
-نسخ
-تحرير
+
 ros2 run turtlesim turtle_teleop_key
 A prompt will appear with instructions like:
 
