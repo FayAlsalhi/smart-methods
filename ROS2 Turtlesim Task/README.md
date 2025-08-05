@@ -33,16 +33,17 @@ Press Q to quit.
 
 ⚠️ Important: Make sure the terminal window is focused when using the keyboard, not the turtle screen.
 
-📸 Screenshot
-Here is a snapshot of the simulation while running:
-<img width="929" height="603" alt="image" src="https://github.com/user-attachments/assets/5e933dae-1810-4965-bcd8-b73aa0aefeb9" />
-
 
 💡 Notes
 Make sure both terminals are running in the same ROS2 environment.
 
 If the turtle doesn't respond, refocus the terminal running turtle_teleop_key.
 
+
+📸 Screenshot
+Here is a snapshot of the simulation while running:
+
+<img width="929" height="603" alt="image" src="https://github.com/user-attachments/assets/5e933dae-1810-4965-bcd8-b73aa0aefeb9" />
 
 
 
