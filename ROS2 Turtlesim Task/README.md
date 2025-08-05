@@ -45,6 +45,9 @@ If the turtle doesn't respond, refocus the terminal running turtle_teleop_key.
 
 
 ```
+## 📸 Screenshot
+
+Here is a snapshot of the simulation while running:
 <img width="1179" height="743" alt="image" src="https://github.com/user-attachments/assets/a0adc449-e312-442c-aeec-405e2c7a059d" />
 ```
 
