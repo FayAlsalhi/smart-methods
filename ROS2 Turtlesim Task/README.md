@@ -43,9 +43,6 @@ Make sure both terminals are running in the same ROS2 environment.
 
 If the turtle doesn't respond, refocus the terminal running turtle_teleop_key.
 
-🔗 ROSject / Online Platform
-If you used The Construct platform, you can include the link here:
 
-🔗 Open My ROSject
 
 
