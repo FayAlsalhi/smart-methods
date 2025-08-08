@@ -19,10 +19,9 @@ project-root/
 ├─ toggle.php # Flips status between 0 and 1 for a given row
 └─ info.sql # Database export (schema + optional seed)
 
-markdown
-نسخ
-تحرير
 
+نسخ
+تح
 ---
 
 ## ⚙️ Requirements
@@ -56,10 +55,8 @@ markdown
 Place Files
 
 Copy project folder to:
-
-lua
-نسخ
-تحرير
+نس
+تحر
 C:\xampp\htdocs\php-user-status-toggle
 Ensure files: index.php, insert.php, toggle.php, info.sql
 
