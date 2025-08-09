@@ -55,8 +55,7 @@ project-root/
 Place Files
 
 Copy project folder to:
-نس
-تحر
+
 C:\xampp\htdocs\php-user-status-toggle
 Ensure files: index.php, insert.php, toggle.php, info.sql
 
@@ -73,8 +72,6 @@ password: (empty string)
 db: info
 
 Run
-
-Open: http://localhost/php-user-status-toggle/index.php
 
 ✍️ Usage
 Enter Name and Age → click Submit
