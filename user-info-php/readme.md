@@ -10,6 +10,9 @@ A simple web app that:
 > Built with **PHP**, **MySQL**, and basic **HTML/CSS**. Ready for XAMPP.
 
 ---
+⚠️ **Important:** The project is designed to run **locally**.  
+Make sure to download the code to your personal computer before running it.
+
 
 ## 🗂 Project Structure
 
