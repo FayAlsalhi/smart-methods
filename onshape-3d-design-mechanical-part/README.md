@@ -2,7 +2,7 @@
 
 This project is a **3D design** created using **Onshape**, developed for learning and practicing 3D modeling tools.
 
-## 📌 Features
+##  Features
 - Created using **Sketch** and **Extrude** tools.
 - Added details with **Fillet** and operations like **Add** and **Remove**.
 - Designed with precise **mm** measurements and conversions from/to **inches**.
@@ -12,13 +12,13 @@ This project is a **3D design** created using **Onshape**, developed for learnin
 <img width="1023" height="683" alt="image" src="https://github.com/user-attachments/assets/ffd2451c-34da-4d62-8234-ab2c81bebb44" />
 
 
-## 📏 Dimensions
+## Dimensions
 - Unit: **mm**.
 - Examples:
   - Base diameter: 55 mm (≈ 2.17 inch)
   - Height: *(Add value here)*
 
-## 🧰 Tools Used
+##  Tools Used
 - **Onshape CAD** – for creating and editing the model.
 - **Sketch Tools** (Circle, Rectangle, Line)
 - **Features**: Extrude, Fillet, Add, Remove.
@@ -33,10 +33,9 @@ Part Studio 1
 └── ...
 
 
-نسخ
-تحرير
 
-## 🚀 How to View
+
+##  How to View
 1. Open the project link in **Onshape**.
 2. Explore the Part Studio from the parts list.
 3. Rotate, zoom, and pan to examine all details.
