@@ -18,6 +18,7 @@ project-root/
 ├─ insert.php # Handles form submission and inserts into DB
 ├─ toggle.php # Flips status between 0 and 1 for a given row
 └─ info.sql # Database export (schema + optional seed)
+
 ---
 
 ## ⚙️ Requirements
